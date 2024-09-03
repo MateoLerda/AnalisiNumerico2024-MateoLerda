@@ -105,3 +105,27 @@ C:\Users\Mateo\OneDrive - Universidad Católica de Santiago del Estero\Escritori
 C:\Users\Mateo\OneDrive - Universidad Católica de Santiago del Estero\Escritorio\2do Cuatri\Analisis numerico\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.pdb
 C:\Users\Mateo\OneDrive - Universidad Católica de Santiago del Estero\Escritorio\2do Cuatri\Analisis numerico\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.genruntimeconfig.cache
 C:\Users\Mateo\OneDrive - Universidad Católica de Santiago del Estero\Escritorio\2do Cuatri\Analisis numerico\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\ref\AnalisisNumerico.dll
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\bin\Debug\net6.0-windows\AnalisisNumerico.exe
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\bin\Debug\net6.0-windows\AnalisisNumerico.deps.json
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\bin\Debug\net6.0-windows\AnalisisNumerico.runtimeconfig.json
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\bin\Debug\net6.0-windows\AnalisisNumerico.dll
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\bin\Debug\net6.0-windows\AnalisisNumerico.pdb
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\bin\Debug\net6.0-windows\Calculus.dll
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.csproj.AssemblyReference.cache
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.Inicio.resources
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.Properties.Resources.resources
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.Unidad1a.resources
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.Uno.Unidad1res.resources
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.csproj.GenerateResource.cache
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.AssemblyInfoInputs.cache
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.AssemblyInfo.cs
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.csproj.CoreCompileInputs.cache
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.sourcelink.json
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\Analisis.4661B1F1.Up2Date
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.dll
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\refint\AnalisisNumerico.dll
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.pdb
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.genruntimeconfig.cache
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\ref\AnalisisNumerico.dll
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.Dos.Unidad2.resources

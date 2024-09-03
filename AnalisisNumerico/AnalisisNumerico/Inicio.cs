@@ -1,3 +1,5 @@
+using AnalisisNumerico.Dos;
+
 namespace AnalisisNumerico
 {
     public partial class Inicio : Form
@@ -6,11 +8,11 @@ namespace AnalisisNumerico
         {
             InitializeComponent();
             this.Size = new Size(800, 600);
-            this.BackgroundImage = Properties.Resources.imgInicio; 
+            this.BackgroundImage = Properties.Resources.imgInicio;
             this.BackgroundImageLayout = ImageLayout.Stretch;
-			this.WindowState = FormWindowState.Maximized; 
-			
-		}
+            this.WindowState = FormWindowState.Maximized;
+
+        }
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -23,8 +25,15 @@ namespace AnalisisNumerico
 
         private void btnUnidad1_Click(object sender, EventArgs e)
         {
-			this.Hide();
-			Unidad1a unidad = new Unidad1a();
+            this.Hide();
+            Unidad1a unidad = new Unidad1a();
+            unidad.ShowDialog();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Unidad2 unidad = new Unidad2();
             unidad.ShowDialog();
         }
     }

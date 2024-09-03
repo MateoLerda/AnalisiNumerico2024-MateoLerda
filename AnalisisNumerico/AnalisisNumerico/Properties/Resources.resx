@@ -124,10 +124,13 @@
   <data name="LogoUCSE" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\LogoUCSE.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="LogoUCSE1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LogoUCSE1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="imgInicio" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\imgInicio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="LogoUCSE1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LogoUCSE1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="messi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\messi.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
