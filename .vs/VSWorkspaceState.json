@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\AnalisisNumerico",
-    "\\AnalisisNumerico\\AnalisisNumerico"
+    "\\AnalisisNumerico\\AnalisisNumerico",
+    "\\AnalisisNumerico\\AnalisisNumerico\\Dos"
   ],
-  "SelectedNode": "\\AnalisisNumerico\\AnalisisNumerico.sln",
+  "SelectedNode": "\\AnalisisNumerico\\AnalisisNumerico\\Dos\\Unidad2.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\",
+  "WorkspaceRootPath": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|c:\\users\\ucse\\desktop\\analisinumerico2024-mateolerda\\analisisnumerico\\analisisnumerico\\dos\\unidad2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|c:\\mateo\\analisinumerico2024-mateolerda\\analisisnumerico\\analisisnumerico\\dos\\unidad2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|solutionrelative:analisisnumerico\\dos\\unidad2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|c:\\users\\ucse\\desktop\\analisinumerico2024-mateolerda\\analisisnumerico\\analisisnumerico\\dos\\unidad2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\analisisnumerico\\dos\\unidad2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|solutionrelative:analisisnumerico\\dos\\unidad2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|c:\\users\\ucse\\desktop\\analisinumerico2024-mateolerda\\analisisnumerico\\analisisnumerico\\dos\\unidad2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|c:\\mateo\\analisinumerico2024-mateolerda\\analisisnumerico\\analisisnumerico\\dos\\unidad2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|solutionrelative:analisisnumerico\\dos\\unidad2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|c:\\users\\ucse\\desktop\\analisinumerico2024-mateolerda\\analisisnumerico\\analisisnumerico\\uno\\unidad1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|c:\\mateo\\analisinumerico2024-mateolerda\\analisisnumerico\\analisisnumerico\\uno\\unidad1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|solutionrelative:analisisnumerico\\uno\\unidad1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,24 +44,23 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Unidad1a.cs",
-              "DocumentMoniker": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Uno\\Unidad1a.cs",
+              "DocumentMoniker": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Uno\\Unidad1a.cs",
               "RelativeDocumentMoniker": "AnalisisNumerico\\Uno\\Unidad1a.cs",
-              "ToolTip": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Uno\\Unidad1a.cs",
+              "ToolTip": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Uno\\Unidad1a.cs",
               "RelativeToolTip": "AnalisisNumerico\\Uno\\Unidad1a.cs",
               "ViewState": "AQIAAF0AAAAAAAAAAAAmwGIAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T23:37:25.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T23:37:25.874Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Unidad2.cs",
-              "DocumentMoniker": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Dos\\Unidad2.cs",
+              "DocumentMoniker": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Dos\\Unidad2.cs",
               "RelativeDocumentMoniker": "AnalisisNumerico\\Dos\\Unidad2.cs",
-              "ToolTip": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Dos\\Unidad2.cs",
+              "ToolTip": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Dos\\Unidad2.cs",
               "RelativeToolTip": "AnalisisNumerico\\Dos\\Unidad2.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAD4vzYAAAAmAAAA",
+              "ViewState": "AgIAAC4AAAAAAAAAAAD4vzYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T23:30:24.554Z",
               "EditorCaption": ""
@@ -70,26 +69,24 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Unidad2.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Dos\\Unidad2.Designer.cs",
+              "DocumentMoniker": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Dos\\Unidad2.Designer.cs",
               "RelativeDocumentMoniker": "AnalisisNumerico\\Dos\\Unidad2.Designer.cs",
-              "ToolTip": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Dos\\Unidad2.Designer.cs",
+              "ToolTip": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Dos\\Unidad2.Designer.cs",
               "RelativeToolTip": "AnalisisNumerico\\Dos\\Unidad2.Designer.cs",
               "ViewState": "AQIAAIUAAAAAAAAAAADgv8EAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T23:42:12.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T23:42:12.7Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Unidad2.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Dos\\Unidad2.cs",
+              "DocumentMoniker": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Dos\\Unidad2.cs",
               "RelativeDocumentMoniker": "AnalisisNumerico\\Dos\\Unidad2.cs",
               "ToolTip": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Dos\\Unidad2.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AnalisisNumerico\\Dos\\Unidad2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Dos\\Unidad2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T23:31:28.048Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-02T23:31:28.048Z"
             }
           ]
         },
