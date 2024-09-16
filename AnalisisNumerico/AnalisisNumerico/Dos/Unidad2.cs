@@ -37,12 +37,13 @@ namespace AnalisisNumerico.Dos
 		//
 		private void btnEjecutar_Click(object sender, EventArgs e)
 		{
-			int dimension = int.Parse(txbDimension.Text);
+			Datos datos = new Datos();
+            datos.dimension = int.Parse(txbDimension.Text);
+			datos.Matriz= GuardarMatriz(datos.dimension);
+			
 			List<double> listresult = new List<double>();
-			listresult.Add(1);
-			listresult.Add(2);
-			listresult.Add(3);
-			resultado(listresult);
+			
+			//resultado(listresult);
 			btnEjecutar.BackColor = Color.YellowGreen;
 			btnEjecutar.ForeColor = Color.White;
 
@@ -64,6 +65,23 @@ namespace AnalisisNumerico.Dos
 				panel4.Show();
 				puntoy += 20;
 			}
+		}
+		//
+		//-------------------GuardarMatriz-----------------
+		//
+		private double[,] GuardarMatriz(int dimesion) {
+			double[,] Matriz = new double[dimesion, dimesion + 1];
+			for (int row = 0; row < dimesion; row++) {
+				for (int col = 0; col < dimesion+1; col++) { 
+					Control textBox= panel2.Controls.Find($"({row},{col})",true).First();
+					if (!double.TryParse((textBox as TextBox).Text, out double numero)) {
+						MessageBox.Show("Ingresar todos los valores de forma correcta");
+						return null;
+					}
+					Matriz[row,col] = numero;
+				}
+			}
+			return Matriz;
 		}
 		//
 		//-------------------Validar----------------
