@@ -35,10 +35,11 @@
 			label1 = new Label();
 			pictureBox1 = new PictureBox();
 			panel1 = new Panel();
+			labmetodoResult = new Label();
+			label5 = new Label();
 			btnGenerar = new Button();
 			btnLimpiar = new Button();
 			panel4 = new Panel();
-			label5 = new Label();
 			txbDimension = new TextBox();
 			lblDimension = new Label();
 			btnEjecutar = new Button();
@@ -49,7 +50,6 @@
 			panel3.SuspendLayout();
 			((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
 			panel1.SuspendLayout();
-			panel4.SuspendLayout();
 			SuspendLayout();
 			// 
 			// panel3
@@ -121,6 +121,8 @@
 			// panel1
 			// 
 			panel1.BackColor = Color.GhostWhite;
+			panel1.Controls.Add(labmetodoResult);
+			panel1.Controls.Add(label5);
 			panel1.Controls.Add(btnGenerar);
 			panel1.Controls.Add(btnLimpiar);
 			panel1.Controls.Add(panel4);
@@ -135,6 +137,29 @@
 			panel1.Name = "panel1";
 			panel1.Size = new Size(763, 370);
 			panel1.TabIndex = 20;
+			// 
+			// labmetodoResult
+			// 
+			labmetodoResult.AutoSize = true;
+			labmetodoResult.BackColor = Color.GhostWhite;
+			labmetodoResult.Font = new Font("Britannic Bold", 12F, FontStyle.Regular, GraphicsUnit.Point);
+			labmetodoResult.Location = new Point(579, 350);
+			labmetodoResult.Name = "labmetodoResult";
+			labmetodoResult.Size = new Size(93, 17);
+			labmetodoResult.TabIndex = 23;
+			labmetodoResult.Text = "Dimension: ";
+			// 
+			// label5
+			// 
+			label5.AutoSize = true;
+			label5.BackColor = Color.YellowGreen;
+			label5.Font = new Font("Britannic Bold", 20.25F, FontStyle.Italic, GraphicsUnit.Point);
+			label5.ForeColor = Color.GhostWhite;
+			label5.Location = new Point(579, 144);
+			label5.Name = "label5";
+			label5.Size = new Size(131, 30);
+			label5.TabIndex = 22;
+			label5.Text = "Resultado";
 			// 
 			// btnGenerar
 			// 
@@ -159,23 +184,10 @@
 			// 
 			// panel4
 			// 
-			panel4.Controls.Add(label5);
-			panel4.Location = new Point(535, 160);
+			panel4.Location = new Point(535, 177);
 			panel4.Name = "panel4";
-			panel4.Size = new Size(202, 189);
+			panel4.Size = new Size(202, 172);
 			panel4.TabIndex = 20;
-			// 
-			// label5
-			// 
-			label5.AutoSize = true;
-			label5.BackColor = Color.YellowGreen;
-			label5.Font = new Font("Britannic Bold", 20.25F, FontStyle.Italic, GraphicsUnit.Point);
-			label5.ForeColor = Color.GhostWhite;
-			label5.Location = new Point(33, 9);
-			label5.Name = "label5";
-			label5.Size = new Size(131, 30);
-			label5.TabIndex = 22;
-			label5.Text = "Resultado";
 			// 
 			// txbDimension
 			// 
@@ -262,8 +274,6 @@
 			((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
 			panel1.ResumeLayout(false);
 			panel1.PerformLayout();
-			panel4.ResumeLayout(false);
-			panel4.PerformLayout();
 			ResumeLayout(false);
 		}
 
@@ -287,5 +297,6 @@
         private Panel panel2;
         private Label label5;
         private TextBox txbDimension;
-    }
+		private Label labmetodoResult;
+	}
 }

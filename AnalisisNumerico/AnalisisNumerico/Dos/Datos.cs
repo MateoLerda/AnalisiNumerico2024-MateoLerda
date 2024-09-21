@@ -10,5 +10,7 @@ namespace AnalisisNumerico.Dos
     {
        public double[,] Matriz;
         public int dimension;
+        public int Metodo;
+        
     }
 }
