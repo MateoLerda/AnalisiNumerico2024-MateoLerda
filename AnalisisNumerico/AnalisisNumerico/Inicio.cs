@@ -1,4 +1,5 @@
 using AnalisisNumerico.Dos;
+using AnalisisNumerico.Tres;
 
 namespace AnalisisNumerico
 {
@@ -34,6 +35,13 @@ namespace AnalisisNumerico
         {
             this.Hide();
             Unidad2 unidad = new Unidad2();
+            unidad.ShowDialog();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Unid3 unidad = new Unid3();
             unidad.ShowDialog();
         }
     }

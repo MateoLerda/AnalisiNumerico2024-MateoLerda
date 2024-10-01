@@ -153,3 +153,4 @@ C:\Mateo\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\De
 C:\Mateo\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.pdb
 C:\Mateo\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.genruntimeconfig.cache
 C:\Mateo\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\ref\AnalisisNumerico.dll
+C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.Tres.Unid3.resources
