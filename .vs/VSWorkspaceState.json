@@ -3,8 +3,9 @@
     "",
     "\\AnalisisNumerico",
     "\\AnalisisNumerico\\AnalisisNumerico",
-    "\\AnalisisNumerico\\AnalisisNumerico\\Dos"
+    "\\AnalisisNumerico\\AnalisisNumerico\\Dos",
+    "\\AnalisisNumerico\\AnalisisNumerico\\Tres"
   ],
-  "SelectedNode": "\\AnalisisNumerico\\AnalisisNumerico\\Dos\\Unidad2Logica.cs",
+  "SelectedNode": "\\AnalisisNumerico\\AnalisisNumerico\\Tres\\Unid3.cs",
   "PreviewInSolutionExplorer": false
 }
