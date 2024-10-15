@@ -1,4 +1,5 @@
-﻿using AnalisisNumerico.Dos;
+﻿using Analisis_Numerico;
+using AnalisisNumerico.Dos;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -14,6 +15,7 @@ namespace AnalisisNumerico.Tres
 {
 	public partial class Unid3 : Form
 	{
+		public Graficador graficador { get; set; }
 		private Data data = new Data();
 		public Unid3()
 		{
@@ -91,6 +93,12 @@ namespace AnalisisNumerico.Tres
 
 		}
 
+		private void setPanelGrafica() { 
+			paneGrafica.Controls.Clear();
+			this.graficador = new Graficador();
+			paneGrafica.Controls.Add(graficador);
+			graficador.Dock = DockStyle.Fill;
+		}
 		private void btnBorrarUlt_Click(object sender, EventArgs e)
 		{
 			if (data.Puntos.Count == 0)
@@ -112,7 +120,13 @@ namespace AnalisisNumerico.Tres
 		{
 
 			bool validar = false;
-			validar = !string.IsNullOrEmpty(txbTolerancia.Text) && !string.IsNullOrEmpty(cbMetodo.Text) && !string.IsNullOrEmpty(txbGrado.Text) && data.Puntos.Count > 0;
+			if (this.cbMetodo.SelectedIndex == 0) {
+                validar = !string.IsNullOrEmpty(txbTolerancia.Text) && !string.IsNullOrEmpty(cbMetodo.Text) && data.Puntos.Count > 0;
+			}
+			else
+			{
+                validar = !string.IsNullOrEmpty(txbTolerancia.Text) && !string.IsNullOrEmpty(cbMetodo.Text) && !string.IsNullOrEmpty(txbGrado.Text) && data.Puntos.Count > 0;
+            }
 			btnCalcular.Enabled = validar;
 
 			if (validar)
@@ -140,10 +154,12 @@ namespace AnalisisNumerico.Tres
 		//
 		private void btnCalcular_Click(object sender, EventArgs e)
 		{
+			Unid3Logica logica= new Unid3Logica();
 			data.Metodo= cbMetodo.SelectedIndex;
 			data.Tolerancia = Convert.ToDouble(txbTolerancia.Text);
-			data.Grado = int.Parse(txbGrado.Text);
-			Resultado();
+			data.Grado = string.IsNullOrEmpty(txbGrado.Text)? 1 : int.Parse(txbGrado.Text);
+			Resultado result= logica.Calcular(data);
+			ImpResultado(result, data.Puntos);
 			btnCalcular.BackColor = Color.SaddleBrown;
 			btnCalcular.ForeColor= Color.White;
 		}
@@ -151,9 +167,17 @@ namespace AnalisisNumerico.Tres
 		//
 		//-----------------Resultados-----------
 		//
-		private void Resultado() { 
+		private void ImpResultado(Resultado result, List<double[]> list) { 
 			lblMetodo.Visible= true;
 			lblMetodo.Text= cbMetodo.Text;
+            lblcorrelacion.Visible = true;
+			lblcorrelacion.Text = result.PorcentEfectiv;
+            lblfuncion.Visible = true;
+			lblfuncion.Text = result.Funcion;
+            lblEfectividad.Visible = true;
+			lblEfectividad.Text = (result.EfectAjust) ? "Aceptable" : "No aceptable";
+            setPanelGrafica();
+			graficador.Graficar(list, result.Funcion);
 		}
 	}
 }

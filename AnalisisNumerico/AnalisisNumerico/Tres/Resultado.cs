@@ -8,6 +8,8 @@ namespace AnalisisNumerico.Tres
 {
 	internal class Resultado
 	{
-
+		public string Funcion;
+        public string PorcentEfectiv;
+        public bool EfectAjust;
 	}
 }

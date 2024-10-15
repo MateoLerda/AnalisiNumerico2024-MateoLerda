@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "av8RWNwBK7Y=",
+  "dgSpecHash": "oiMtu+A0x0A=",
   "success": true,
-  "projectFilePath": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\AnalisisNumerico.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\AnalisisNumerico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UCSE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\UCSE\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\UCSE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\UCSE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }

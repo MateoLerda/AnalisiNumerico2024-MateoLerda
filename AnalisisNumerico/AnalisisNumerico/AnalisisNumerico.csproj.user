@@ -7,6 +7,9 @@
     <Compile Update="Inicio.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Tres\Graficador.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="Tres\Unid3.cs">
       <SubType>Form</SubType>
     </Compile>
