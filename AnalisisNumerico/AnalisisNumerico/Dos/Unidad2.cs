@@ -24,7 +24,7 @@ namespace AnalisisNumerico.Dos
 			btnEjecutar.Enabled = false;
 			btnGenerar.Enabled = false;
 			cbMetodo.DropDownStyle = ComboBoxStyle.DropDownList;
-			
+
 		}
 
 		private void pictureBox1_Click(object sender, EventArgs e)
@@ -222,6 +222,6 @@ namespace AnalisisNumerico.Dos
 			validarCampo();
 		}
 
-		
+
 	}
 }

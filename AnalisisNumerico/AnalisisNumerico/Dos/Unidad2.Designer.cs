@@ -68,13 +68,13 @@
 			// label6
 			// 
 			label6.AutoSize = true;
-			label6.Font = new Font("Britannic Bold", 24F, FontStyle.Italic, GraphicsUnit.Point);
+			label6.Font = new Font("Britannic Bold", 15.75F, FontStyle.Italic, GraphicsUnit.Point);
 			label6.ForeColor = Color.DarkOliveGreen;
-			label6.Location = new Point(395, 5);
+			label6.Location = new Point(445, 16);
 			label6.Name = "label6";
-			label6.Size = new Size(105, 36);
+			label6.Size = new Size(66, 23);
 			label6.TabIndex = 4;
-			label6.Text = " √ f(x)";
+			label6.Text = "x1+x2";
 			// 
 			// label3
 			// 
@@ -101,11 +101,11 @@
 			label1.AutoSize = true;
 			label1.Font = new Font("Britannic Bold", 26.25F, FontStyle.Italic, GraphicsUnit.Point);
 			label1.ForeColor = Color.DarkOliveGreen;
-			label1.Location = new Point(69, 3);
+			label1.Location = new Point(55, 3);
 			label1.Name = "label1";
-			label1.Size = new Size(342, 76);
+			label1.Size = new Size(397, 38);
 			label1.TabIndex = 1;
-			label1.Text = "Raices de Funciones \r\n\r\n";
+			label1.Text = "Sistemas de Ecuaciones ";
 			// 
 			// pictureBox1
 			// 

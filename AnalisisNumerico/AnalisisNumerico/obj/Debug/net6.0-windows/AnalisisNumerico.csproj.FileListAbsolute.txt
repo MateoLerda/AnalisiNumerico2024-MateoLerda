@@ -156,3 +156,5 @@ C:\Mateo\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\De
 C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.Tres.Unid3.resources
 C:\Mateo\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.Tres.Unid3.resources
 C:\Users\UCSE\Desktop\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\Analisis_Numerico.Graficador.resources
+C:\Mateo\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\Analisis_Numerico.Graficador.resources
+C:\Mateo\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\obj\Debug\net6.0-windows\AnalisisNumerico.Cuatro.Unidad4.resources

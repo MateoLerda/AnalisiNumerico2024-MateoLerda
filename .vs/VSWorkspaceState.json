@@ -3,9 +3,10 @@
     "",
     "\\AnalisisNumerico",
     "\\AnalisisNumerico\\AnalisisNumerico",
+    "\\AnalisisNumerico\\AnalisisNumerico\\Cuatro",
     "\\AnalisisNumerico\\AnalisisNumerico\\Dos",
     "\\AnalisisNumerico\\AnalisisNumerico\\Tres"
   ],
-  "SelectedNode": "\\AnalisisNumerico\\AnalisisNumerico\\Tres\\Unid3.cs",
+  "SelectedNode": "\\AnalisisNumerico\\AnalisisNumerico.sln",
   "PreviewInSolutionExplorer": false
 }

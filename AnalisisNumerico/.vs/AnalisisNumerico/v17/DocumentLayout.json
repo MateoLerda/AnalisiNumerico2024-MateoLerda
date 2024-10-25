@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\",
+  "WorkspaceRootPath": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\analisisnumerico\\tres\\unid3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|solutionrelative:analisisnumerico\\tres\\unid3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|c:\\mateo\\analisinumerico2024-mateolerda\\analisisnumerico\\analisisnumerico\\cuatro\\unidad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|solutionrelative:analisisnumerico\\cuatro\\unidad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|c:\\users\\ucse\\desktop\\analisinumerico2024-mateolerda\\analisisnumerico\\analisisnumerico\\tres\\unid3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|solutionrelative:analisisnumerico\\tres\\unid3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\analisisnumerico\\cuatro\\unidad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|solutionrelative:analisisnumerico\\cuatro\\unidad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|c:\\users\\ucse\\desktop\\analisinumerico2024-mateolerda\\analisisnumerico\\analisisnumerico\\tres\\unid3logica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|solutionrelative:analisisnumerico\\tres\\unid3logica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|c:\\mateo\\analisinumerico2024-mateolerda\\analisisnumerico\\analisisnumerico\\cuatro\\logica4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|solutionrelative:analisisnumerico\\cuatro\\logica4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|c:\\users\\ucse\\desktop\\analisinumerico2024-mateolerda\\analisisnumerico\\analisisnumerico\\tres\\resultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|solutionrelative:analisisnumerico\\tres\\resultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\analisisnumerico\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|solutionrelative:analisisnumerico\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|c:\\users\\ucse\\desktop\\analisinumerico2024-mateolerda\\analisisnumerico\\analisisnumerico\\tres\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|solutionrelative:analisisnumerico\\tres\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|c:\\mateo\\analisinumerico2024-mateolerda\\analisisnumerico\\analisisnumerico\\cuatro\\resultado4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|solutionrelative:analisisnumerico\\cuatro\\resultado4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|c:\\mateo\\analisinumerico2024-mateolerda\\analisisnumerico\\analisisnumerico\\cuatro\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|solutionrelative:analisisnumerico\\cuatro\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,67 +50,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Tres\\Data.cs",
-              "RelativeDocumentMoniker": "AnalisisNumerico\\Tres\\Data.cs",
-              "ToolTip": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Tres\\Data.cs",
-              "RelativeToolTip": "AnalisisNumerico\\Tres\\Data.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Logica4.cs",
+              "DocumentMoniker": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Cuatro\\Logica4.cs",
+              "RelativeDocumentMoniker": "AnalisisNumerico\\Cuatro\\Logica4.cs",
+              "ToolTip": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Cuatro\\Logica4.cs",
+              "RelativeToolTip": "AnalisisNumerico\\Cuatro\\Logica4.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAYwKEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:15:26.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Unid3.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Tres\\Unid3.cs",
-              "RelativeDocumentMoniker": "AnalisisNumerico\\Tres\\Unid3.cs",
-              "ToolTip": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Tres\\Unid3.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AnalisisNumerico\\Tres\\Unid3.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T23:07:35.819Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Unid3.cs",
-              "DocumentMoniker": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Tres\\Unid3.cs",
-              "RelativeDocumentMoniker": "AnalisisNumerico\\Tres\\Unid3.cs",
-              "ToolTip": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Tres\\Unid3.cs",
-              "RelativeToolTip": "AnalisisNumerico\\Tres\\Unid3.cs",
-              "ViewState": "AQIAAJ8AAAAAAAAAAAAiwLEAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T23:06:53.059Z",
+              "WhenOpened": "2024-10-24T12:13:22.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Resultado.cs",
-              "DocumentMoniker": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Tres\\Resultado.cs",
-              "RelativeDocumentMoniker": "AnalisisNumerico\\Tres\\Resultado.cs",
-              "ToolTip": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Tres\\Resultado.cs",
-              "RelativeToolTip": "AnalisisNumerico\\Tres\\Resultado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Inicio.cs",
+              "RelativeDocumentMoniker": "AnalisisNumerico\\Inicio.cs",
+              "ToolTip": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AnalisisNumerico\\Inicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T00:01:06.556Z",
+              "WhenOpened": "2024-10-24T23:09:55.721Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resultado4.cs",
+              "DocumentMoniker": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Cuatro\\Resultado4.cs",
+              "RelativeDocumentMoniker": "AnalisisNumerico\\Cuatro\\Resultado4.cs",
+              "ToolTip": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Cuatro\\Resultado4.cs",
+              "RelativeToolTip": "AnalisisNumerico\\Cuatro\\Resultado4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:33:44.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Unid3Logica.cs",
-              "DocumentMoniker": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Tres\\Unid3Logica.cs",
-              "RelativeDocumentMoniker": "AnalisisNumerico\\Tres\\Unid3Logica.cs",
-              "ToolTip": "C:\\Users\\UCSE\\Desktop\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Tres\\Unid3Logica.cs",
-              "RelativeToolTip": "AnalisisNumerico\\Tres\\Unid3Logica.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwC0AAAAnAAAA",
+              "DocumentIndex": 5,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Cuatro\\Datos.cs",
+              "RelativeDocumentMoniker": "AnalisisNumerico\\Cuatro\\Datos.cs",
+              "ToolTip": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Cuatro\\Datos.cs",
+              "RelativeToolTip": "AnalisisNumerico\\Cuatro\\Datos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T23:50:43.083Z",
+              "WhenOpened": "2024-10-24T11:59:05.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Unidad4.cs",
+              "DocumentMoniker": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Cuatro\\Unidad4.cs",
+              "RelativeDocumentMoniker": "AnalisisNumerico\\Cuatro\\Unidad4.cs",
+              "ToolTip": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Cuatro\\Unidad4.cs",
+              "RelativeToolTip": "AnalisisNumerico\\Cuatro\\Unidad4.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAqwG4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:55:13.713Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unidad4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Cuatro\\Unidad4.cs",
+              "RelativeDocumentMoniker": "AnalisisNumerico\\Cuatro\\Unidad4.cs",
+              "ToolTip": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Cuatro\\Unidad4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AnalisisNumerico\\Cuatro\\Unidad4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:46:34.515Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         },
@@ -116,15 +131,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         },

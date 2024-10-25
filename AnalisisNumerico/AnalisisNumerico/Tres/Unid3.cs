@@ -22,8 +22,8 @@ namespace AnalisisNumerico.Tres
 			InitializeComponent();
 			lblcorrelacion.Visible = false;
 			lblfuncion.Visible = false;
-			lblMetodo.Visible = false;
 			lblEfectividad.Visible = false;
+			lblMetodo.Visible = false;
 		}
 
 
@@ -171,11 +171,11 @@ namespace AnalisisNumerico.Tres
 			lblMetodo.Visible= true;
 			lblMetodo.Text= cbMetodo.Text;
             lblcorrelacion.Visible = true;
-			lblcorrelacion.Text = result.PorcentEfectiv;
-            lblfuncion.Visible = true;
-			lblfuncion.Text = result.Funcion;
+			lblcorrelacion.Text =  $"{result.PorcentEfectiv} %";
+			lblfuncion.Visible = true;
+			lblfuncion.Text = $"y = {result.Funcion}";
             lblEfectividad.Visible = true;
-			lblEfectividad.Text = (result.EfectAjust) ? "Aceptable" : "No aceptable";
+			lblEfectividad.Text = (result.EfectAjust)? "Aceptable" : "No aceptable";
             setPanelGrafica();
 			graficador.Graficar(list, result.Funcion);
 		}
