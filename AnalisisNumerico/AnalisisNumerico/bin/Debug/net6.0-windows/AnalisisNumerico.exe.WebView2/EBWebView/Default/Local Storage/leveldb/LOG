@@ -1,0 +1,66 @@
+2024/10/26-13:22:19.076 5e30 Reusing MANIFEST C:\Mateo\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\bin\Debug\net6.0-windows\AnalisisNumerico.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2024/10/26-13:22:19.083 5e30 Recovering log #12
+2024/10/26-13:22:19.085 5e30 Reusing old log C:\Mateo\AnalisiNumerico2024-MateoLerda\AnalisisNumerico\AnalisisNumerico\bin\Debug\net6.0-windows\AnalisisNumerico.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000012.log 
+2024/10/26-13:24:21.143 4430 Level-0 table #16: started
+2024/10/26-13:24:21.148 4430 Level-0 table #16: 108380 bytes OK
+2024/10/26-13:24:21.151 4430 Delete type=0 #12
+2024/10/26-13:25:21.273 4430 Level-0 table #18: started
+2024/10/26-13:25:21.276 4430 Level-0 table #18: 175452 bytes OK
+2024/10/26-13:25:21.278 4430 Delete type=0 #15
+2024/10/26-13:25:21.278 4430 Compacting 4@0 + 1@1 files
+2024/10/26-13:25:21.283 4430 Generated table #19@0: 5 keys, 283737 bytes
+2024/10/26-13:25:21.284 4430 Compacted 4@0 + 1@1 files => 283737 bytes
+2024/10/26-13:25:21.284 4430 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/26-13:25:21.285 4430 Delete type=2 #7
+2024/10/26-13:25:21.285 4430 Delete type=2 #10
+2024/10/26-13:25:21.285 4430 Delete type=2 #13
+2024/10/26-13:25:21.285 4430 Delete type=2 #16
+2024/10/26-13:25:21.285 4430 Delete type=2 #18
+2024/10/26-13:26:21.424 4430 Level-0 table #21: started
+2024/10/26-13:26:21.429 4430 Level-0 table #21: 175496 bytes OK
+2024/10/26-13:26:21.431 4430 Delete type=0 #17
+2024/10/26-13:27:21.588 4430 Level-0 table #23: started
+2024/10/26-13:27:21.592 4430 Level-0 table #23: 175496 bytes OK
+2024/10/26-13:27:21.594 4430 Delete type=0 #20
+2024/10/26-13:28:21.727 4430 Level-0 table #25: started
+2024/10/26-13:28:21.730 4430 Level-0 table #25: 175496 bytes OK
+2024/10/26-13:28:21.732 4430 Delete type=0 #22
+2024/10/26-13:29:21.885 4430 Level-0 table #27: started
+2024/10/26-13:29:21.892 4430 Level-0 table #27: 175496 bytes OK
+2024/10/26-13:29:21.894 4430 Delete type=0 #24
+2024/10/26-13:29:21.895 4430 Compacting 4@0 + 1@1 files
+2024/10/26-13:29:21.901 4430 Generated table #28@0: 5 keys, 283781 bytes
+2024/10/26-13:29:21.901 4430 Compacted 4@0 + 1@1 files => 283781 bytes
+2024/10/26-13:29:21.901 4430 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/26-13:29:21.902 4430 Delete type=2 #19
+2024/10/26-13:29:21.902 4430 Delete type=2 #21
+2024/10/26-13:29:21.902 4430 Delete type=2 #23
+2024/10/26-13:29:21.902 4430 Delete type=2 #25
+2024/10/26-13:29:21.902 4430 Delete type=2 #27
+2024/10/26-13:30:22.042 4430 Level-0 table #30: started
+2024/10/26-13:30:22.048 4430 Level-0 table #30: 175496 bytes OK
+2024/10/26-13:30:22.050 4430 Delete type=0 #26
+2024/10/26-13:31:22.193 4430 Level-0 table #32: started
+2024/10/26-13:31:22.196 4430 Level-0 table #32: 175496 bytes OK
+2024/10/26-13:31:22.197 4430 Delete type=0 #29
+2024/10/26-13:32:22.335 4430 Level-0 table #34: started
+2024/10/26-13:32:22.342 4430 Level-0 table #34: 175496 bytes OK
+2024/10/26-13:32:22.343 4430 Delete type=0 #31
+2024/10/26-13:33:22.497 4430 Level-0 table #36: started
+2024/10/26-13:33:22.503 4430 Level-0 table #36: 175496 bytes OK
+2024/10/26-13:33:22.505 4430 Delete type=0 #33
+2024/10/26-13:33:22.505 4430 Compacting 4@0 + 1@1 files
+2024/10/26-13:33:22.510 4430 Generated table #37@0: 5 keys, 283781 bytes
+2024/10/26-13:33:22.510 4430 Compacted 4@0 + 1@1 files => 283781 bytes
+2024/10/26-13:33:22.510 4430 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/26-13:33:22.511 4430 Delete type=2 #28
+2024/10/26-13:33:22.511 4430 Delete type=2 #30
+2024/10/26-13:33:22.511 4430 Delete type=2 #32
+2024/10/26-13:33:22.511 4430 Delete type=2 #34
+2024/10/26-13:33:22.511 4430 Delete type=2 #36
+2024/10/26-13:34:22.645 4430 Level-0 table #39: started
+2024/10/26-13:34:22.649 4430 Level-0 table #39: 175496 bytes OK
+2024/10/26-13:34:22.651 4430 Delete type=0 #35
+2024/10/26-13:35:01.622 4430 Level-0 table #41: started
+2024/10/26-13:35:01.626 4430 Level-0 table #41: 175496 bytes OK
+2024/10/26-13:35:01.627 4430 Delete type=0 #38

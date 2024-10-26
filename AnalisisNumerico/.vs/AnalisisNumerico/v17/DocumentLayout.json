@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|solutionrelative:analisisnumerico\\cuatro\\unidad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\analisisnumerico\\cuatro\\unidad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|c:\\mateo\\analisinumerico2024-mateolerda\\analisisnumerico\\analisisnumerico\\cuatro\\unidad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6BCC1655-BF5B-4E2E-B17D-0281782229B0}|AnalisisNumerico\\AnalisisNumerico.csproj|solutionrelative:analisisnumerico\\cuatro\\unidad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -58,8 +58,7 @@
               "RelativeToolTip": "AnalisisNumerico\\Cuatro\\Logica4.cs",
               "ViewState": "AgIAAMsAAAAAAAAAAAAYwKEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:13:22.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T12:13:22.26Z"
             },
             {
               "$type": "Document",
@@ -70,8 +69,7 @@
               "ToolTip": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Inicio.cs [Dise\u00F1o]",
               "RelativeToolTip": "AnalisisNumerico\\Inicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T23:09:55.721Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-24T23:09:55.721Z"
             },
             {
               "$type": "Document",
@@ -83,8 +81,7 @@
               "RelativeToolTip": "AnalisisNumerico\\Cuatro\\Resultado4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:33:44.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T12:33:44.741Z"
             },
             {
               "$type": "Document",
@@ -106,7 +103,7 @@
               "RelativeDocumentMoniker": "AnalisisNumerico\\Cuatro\\Unidad4.cs",
               "ToolTip": "C:\\Mateo\\AnalisiNumerico2024-MateoLerda\\AnalisisNumerico\\AnalisisNumerico\\Cuatro\\Unidad4.cs",
               "RelativeToolTip": "AnalisisNumerico\\Cuatro\\Unidad4.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAqwG4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAYwIEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T21:55:13.713Z",
               "EditorCaption": ""
@@ -131,14 +128,12 @@
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            }
-          ]
-        },
-        {
-          "DockedHeight": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"

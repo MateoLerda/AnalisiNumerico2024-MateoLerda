@@ -57,15 +57,13 @@
 			label1 = new Label();
 			pictureBox1 = new PictureBox();
 			panel11 = new Panel();
-			panel15 = new Panel();
 			metodoResult = new Label();
-			panel16 = new Panel();
-			label7 = new Label();
 			panel13 = new Panel();
 			areaResult = new Label();
 			panel14 = new Panel();
 			lblArea = new Label();
 			label4 = new Label();
+			grafica = new Microsoft.Web.WebView2.WinForms.WebView2();
 			panel1.SuspendLayout();
 			panel9.SuspendLayout();
 			panel7.SuspendLayout();
@@ -74,8 +72,8 @@
 			panel3.SuspendLayout();
 			((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
 			panel11.SuspendLayout();
-			panel15.SuspendLayout();
 			panel13.SuspendLayout();
+			((System.ComponentModel.ISupportInitialize)grafica).BeginInit();
 			SuspendLayout();
 			// 
 			// panel1
@@ -90,7 +88,7 @@
 			panel1.Controls.Add(label5);
 			panel1.Location = new Point(19, 68);
 			panel1.Name = "panel1";
-			panel1.Size = new Size(426, 370);
+			panel1.Size = new Size(409, 370);
 			panel1.TabIndex = 25;
 			// 
 			// btnLimpiar
@@ -372,52 +370,23 @@
 			// panel11
 			// 
 			panel11.BackColor = Color.GhostWhite;
-			panel11.Controls.Add(panel15);
+			panel11.Controls.Add(metodoResult);
 			panel11.Controls.Add(panel13);
 			panel11.Controls.Add(label4);
-			panel11.Location = new Point(454, 142);
+			panel11.Location = new Point(434, 70);
 			panel11.Name = "panel11";
-			panel11.Size = new Size(331, 205);
+			panel11.Size = new Size(348, 104);
 			panel11.TabIndex = 26;
-			// 
-			// panel15
-			// 
-			panel15.BackColor = Color.Gainsboro;
-			panel15.Controls.Add(metodoResult);
-			panel15.Controls.Add(panel16);
-			panel15.Controls.Add(label7);
-			panel15.Location = new Point(12, 130);
-			panel15.Name = "panel15";
-			panel15.Size = new Size(299, 57);
-			panel15.TabIndex = 46;
 			// 
 			// metodoResult
 			// 
 			metodoResult.AutoSize = true;
 			metodoResult.Font = new Font("Britannic Bold", 14F, FontStyle.Regular, GraphicsUnit.Point);
-			metodoResult.Location = new Point(105, 18);
+			metodoResult.Location = new Point(161, 20);
 			metodoResult.Name = "metodoResult";
 			metodoResult.Size = new Size(69, 21);
 			metodoResult.TabIndex = 6;
 			metodoResult.Text = "Metodo";
-			// 
-			// panel16
-			// 
-			panel16.BackColor = Color.Gold;
-			panel16.Location = new Point(8, 0);
-			panel16.Name = "panel16";
-			panel16.Size = new Size(11, 75);
-			panel16.TabIndex = 0;
-			// 
-			// label7
-			// 
-			label7.AutoSize = true;
-			label7.Font = new Font("Britannic Bold", 14F, FontStyle.Regular, GraphicsUnit.Point);
-			label7.Location = new Point(25, 18);
-			label7.Name = "label7";
-			label7.Size = new Size(74, 21);
-			label7.TabIndex = 5;
-			label7.Text = "Metodo:";
 			// 
 			// panel13
 			// 
@@ -425,16 +394,16 @@
 			panel13.Controls.Add(areaResult);
 			panel13.Controls.Add(panel14);
 			panel13.Controls.Add(lblArea);
-			panel13.Location = new Point(12, 60);
+			panel13.Location = new Point(12, 49);
 			panel13.Name = "panel13";
-			panel13.Size = new Size(299, 55);
+			panel13.Size = new Size(299, 37);
 			panel13.TabIndex = 45;
 			// 
 			// areaResult
 			// 
 			areaResult.AutoSize = true;
 			areaResult.Font = new Font("Britannic Bold", 14F, FontStyle.Regular, GraphicsUnit.Point);
-			areaResult.Location = new Point(105, 18);
+			areaResult.Location = new Point(103, 9);
 			areaResult.Name = "areaResult";
 			areaResult.Size = new Size(47, 21);
 			areaResult.TabIndex = 6;
@@ -452,7 +421,7 @@
 			// 
 			lblArea.AutoSize = true;
 			lblArea.Font = new Font("Britannic Bold", 14F, FontStyle.Regular, GraphicsUnit.Point);
-			lblArea.Location = new Point(25, 18);
+			lblArea.Location = new Point(25, 9);
 			lblArea.Name = "lblArea";
 			lblArea.Size = new Size(52, 21);
 			lblArea.TabIndex = 5;
@@ -464,11 +433,23 @@
 			label4.BackColor = Color.Firebrick;
 			label4.Font = new Font("Britannic Bold", 20.25F, FontStyle.Italic, GraphicsUnit.Point);
 			label4.ForeColor = Color.GhostWhite;
-			label4.Location = new Point(96, 14);
+			label4.Location = new Point(12, 11);
 			label4.Name = "label4";
 			label4.Size = new Size(131, 30);
 			label4.TabIndex = 47;
 			label4.Text = "Resultado";
+			// 
+			// grafica
+			// 
+			grafica.AllowExternalDrop = true;
+			grafica.BackColor = Color.WhiteSmoke;
+			grafica.CreationProperties = null;
+			grafica.DefaultBackgroundColor = Color.White;
+			grafica.Location = new Point(434, 180);
+			grafica.Name = "grafica";
+			grafica.Size = new Size(348, 258);
+			grafica.TabIndex = 27;
+			grafica.ZoomFactor = 1D;
 			// 
 			// Unidad4
 			// 
@@ -476,6 +457,7 @@
 			AutoScaleMode = AutoScaleMode.Font;
 			BackColor = Color.Firebrick;
 			ClientSize = new Size(800, 450);
+			Controls.Add(grafica);
 			Controls.Add(panel11);
 			Controls.Add(panel1);
 			Controls.Add(panel3);
@@ -496,10 +478,9 @@
 			((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
 			panel11.ResumeLayout(false);
 			panel11.PerformLayout();
-			panel15.ResumeLayout(false);
-			panel15.PerformLayout();
 			panel13.ResumeLayout(false);
 			panel13.PerformLayout();
+			((System.ComponentModel.ISupportInitialize)grafica).EndInit();
 			ResumeLayout(false);
 		}
 
@@ -541,13 +522,11 @@
 		private Panel panel8;
 		private Panel panel11;
 		private Label label4;
-		private Panel panel15;
-		private Panel panel16;
-		private Label label7;
 		private Panel panel13;
 		private Panel panel14;
 		private Label lblArea;
 		private Label metodoResult;
 		private Label areaResult;
+		private Microsoft.Web.WebView2.WinForms.WebView2 grafica;
 	}
 }

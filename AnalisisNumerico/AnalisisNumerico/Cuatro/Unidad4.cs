@@ -6,6 +6,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -97,6 +98,7 @@ namespace AnalisisNumerico.Cuatro
 			};
 			Resultado4 resultado = logica.CalculoArea(datos);
 			impResults(resultado);
+			graficador();
 		}
 
 		private void impResults(Resultado4 resultado){
@@ -113,6 +115,19 @@ namespace AnalisisNumerico.Cuatro
 			
 			btnCalcular.BackColor = Color.Coral;
 
+		}
+
+		private async void graficador() {
+
+			await grafica.EnsureCoreWebView2Async(null);
+
+			
+			string funcion = txbFuncion.Text; 
+			string funcionModificada = Regex.Replace(funcion, @"\+", "%2B");
+			
+			string urlGeoGebra = $"https://www.geogebra.org/graphing?command=f(x)={funcionModificada}";
+		
+			grafica.CoreWebView2.Navigate(urlGeoGebra);
 		}
 	}
 }
