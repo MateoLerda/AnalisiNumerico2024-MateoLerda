@@ -157,7 +157,7 @@ namespace AnalisisNumerico.Cuatro
 				double h = (datos.Xd - datos.Xi) / n;
 				double area  = 0;
 
-				if (n >= 3 && (n % 3 == 0))
+				if (n >= 3 && (n % 2 != 0))
 				{
 					
 					double x0 = datos.Xi + (n - 3) * h;

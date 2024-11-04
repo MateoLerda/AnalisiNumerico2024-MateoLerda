@@ -1,4 +1,5 @@
 ﻿using Analisis_Numerico;
+using AnalisisNumerico.Tres;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -124,7 +125,9 @@ namespace AnalisisNumerico.Cuatro
 			
 			string funcion = txbFuncion.Text; 
 			string funcionModificada = Regex.Replace(funcion, @"\+", "%2B");
-			
+			funcionModificada = Regex.Replace(funcionModificada, @"\blog\b", "ln");
+
+
 			string urlGeoGebra = $"https://www.geogebra.org/graphing?command=f(x)={funcionModificada}";
 		
 			grafica.CoreWebView2.Navigate(urlGeoGebra);

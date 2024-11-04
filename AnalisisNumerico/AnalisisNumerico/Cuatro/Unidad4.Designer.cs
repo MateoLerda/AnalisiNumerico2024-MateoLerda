@@ -354,7 +354,7 @@
 			label1.Name = "label1";
 			label1.Size = new Size(371, 41);
 			label1.TabIndex = 1;
-			label1.Text = "Integracion Numerica";
+			label1.Text = "Integración Numérica";
 			// 
 			// pictureBox1
 			// 

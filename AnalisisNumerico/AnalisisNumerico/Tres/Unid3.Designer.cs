@@ -298,7 +298,7 @@
 			panel3.Controls.Add(pictureBox1);
 			panel3.Location = new Point(19, 12);
 			panel3.Name = "panel3";
-			panel3.Size = new Size(763, 49);
+			panel3.Size = new Size(769, 49);
 			panel3.TabIndex = 21;
 			// 
 			// label6
@@ -365,7 +365,7 @@
 			panel2.Controls.Add(label4);
 			panel2.Location = new Point(319, 68);
 			panel2.Name = "panel2";
-			panel2.Size = new Size(463, 370);
+			panel2.Size = new Size(469, 370);
 			panel2.TabIndex = 23;
 			// 
 			// lblMetodo
@@ -425,7 +425,7 @@
 			panel7.Controls.Add(lblcorrelacion);
 			panel7.Location = new Point(231, 94);
 			panel7.Name = "panel7";
-			panel7.Size = new Size(217, 46);
+			panel7.Size = new Size(225, 46);
 			panel7.TabIndex = 27;
 			// 
 			// panel8
@@ -464,7 +464,7 @@
 			panel5.Controls.Add(lblfuncion);
 			panel5.Location = new Point(8, 42);
 			panel5.Name = "panel5";
-			panel5.Size = new Size(440, 46);
+			panel5.Size = new Size(448, 46);
 			panel5.TabIndex = 26;
 			// 
 			// panel6
@@ -478,20 +478,20 @@
 			// lblFuncionIngresada
 			// 
 			lblFuncionIngresada.AutoSize = true;
-			lblFuncionIngresada.Font = new Font("Britannic Bold", 12F, FontStyle.Regular, GraphicsUnit.Point);
-			lblFuncionIngresada.Location = new Point(25, 14);
+			lblFuncionIngresada.Font = new Font("Britannic Bold", 9.75F, FontStyle.Regular, GraphicsUnit.Point);
+			lblFuncionIngresada.Location = new Point(24, 14);
 			lblFuncionIngresada.Name = "lblFuncionIngresada";
-			lblFuncionIngresada.Size = new Size(69, 17);
+			lblFuncionIngresada.Size = new Size(55, 15);
 			lblFuncionIngresada.TabIndex = 5;
 			lblFuncionIngresada.Text = "Función:";
 			// 
 			// lblfuncion
 			// 
 			lblfuncion.AutoSize = true;
-			lblfuncion.Font = new Font("Britannic Bold", 11.25F, FontStyle.Regular, GraphicsUnit.Point);
-			lblfuncion.Location = new Point(127, 14);
+			lblfuncion.Font = new Font("Calibri", 9.75F, FontStyle.Regular, GraphicsUnit.Point);
+			lblfuncion.Location = new Point(78, 14);
 			lblfuncion.Name = "lblfuncion";
-			lblfuncion.Size = new Size(47, 16);
+			lblfuncion.Size = new Size(42, 15);
 			lblfuncion.TabIndex = 6;
 			lblfuncion.Text = "label2";
 			// 
